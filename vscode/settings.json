@@ -1,0 +1,8 @@
+{
+    "editor.largeFileOptimizations": false,
+    "editor.tabSize": 2,
+    "window.zoomLevel": 1,
+    "files.insertFinalNewline": true,
+    "editor.wordWrap": "on",
+    "tslint.autoFixOnSave": true
+}
